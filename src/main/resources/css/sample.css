@@ -1,0 +1,19 @@
+.root {
+    -fx-font-family: Papyrus;
+    -fx-alignment: center;
+    -fx-vgap: 10;
+    -fx-hgap: 10
+}
+
+.title {
+    -fx-font-size: 40px;
+    -fx-fill: #54000d
+}
+
+.text-field {
+    -fx-font-family: Helvetica;
+}
+
+#firstName {
+    -fx-background-color: azure;
+}
